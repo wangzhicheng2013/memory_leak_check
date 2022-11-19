@@ -1,0 +1,1 @@
+gcc -g -o Test main.c cmemory.c -I ./ -L ./ -lAlgoLib -pthread
